@@ -7,7 +7,7 @@ try:
     username = "root",
     password = "incel123"
     )
-except Exception:
+except mysql.connector.Error:
     print("Error connecting to database")
 
 mycursor = mydb.cursor()
