@@ -6,11 +6,11 @@ The journey begins with understanding what a database is, the different types of
 ## Resources
 Read or watch:
 
-- What is Database & SQL?
-- Types of Databases (SQL & NoSQL)
-- Introduction to SQL
-- CRUD Operations with SQL
-- Advanced SQL Techniques
+- [What is Database & SQL?](https://intranet.alxswe.com/rltoken/EbjaEhHHGKr4tLScqUNpzA)
+- [Types of Databases (SQL & NoSQL)](https://intranet.alxswe.com/rltoken/kFAFvMhN4awt75pLMDSOUQ)
+- [Introduction to SQL](https://intranet.alxswe.com/rltoken/5jiJPmc3Gyz_Ha5ckD2aUQ)
+- [CRUD Operations with SQL](https://intranet.alxswe.com/rltoken/vfpFYJ5x9Vcr4_Famn9PnA)
+- [Advanced SQL Techniques](https://intranet.alxswe.com/rltoken/t4tRnJoiPtKjrFlYIXba7Q)
 ## General Objectives
 - What’s a database
 - What’s a relational database
