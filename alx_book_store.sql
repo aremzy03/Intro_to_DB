@@ -30,11 +30,11 @@ CREATE TABLE IF NOT EXISTS Orders (
     FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
 );
 
-CREATE TABLE IF NOT EXISTS Order_details (
+CREATE TABLE IF NOT EXISTS Order_Details (
     order_detail_id INT PRIMARY KEY,
     order_id INT,
     book_id INT,
     quantity DOUBLE,
-    Foreign Key (Order_id) REFERENCES Orders(order_id),
+    Foreign Key (order_id) REFERENCES Orders(order_id),
     Foreign Key (book_id) REFERENCES Books(book_id)
 );
